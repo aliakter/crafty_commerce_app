@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "127024984664",
+    "firebase_url": "https://crafty-commerce-e3293-default-rtdb.firebaseio.com",
+    "project_id": "crafty-commerce-e3293",
+    "storage_bucket": "crafty-commerce-e3293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127024984664:android:00b4809941cc7deb63d02d",
+        "android_client_info": {
+          "package_name": "com.example.crafty_commerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127024984664-35cga809kf6dq664irq2onekn2846g7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgHYdfnG0bRSPy1aExrVUytbr_TcDo7Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127024984664-35cga809kf6dq664irq2onekn2846g7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
